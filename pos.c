@@ -6,7 +6,7 @@ int main()
  int a;
  printf("Enter the number\n");
  scanf("%d",&a);
- if(a=0)
+ if(a==0)
  {
   printf("number is zero\n");
   }
